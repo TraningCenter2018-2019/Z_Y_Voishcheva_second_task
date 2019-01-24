@@ -9,13 +9,6 @@ import java.util.Iterator;
 import java.util.Map;
 
 public class Serializator {
-//    private static final String DILIMETER_FIELD = ", ";
-//    private static final String START_COLLECTION = "[ ";
-//    private static final String FINISH_COLLECTION = " ]";
-//    private static final String START_OBJECT = "{";
-//    private static final String FINISH_OBJECT = "}";
-//    private static final String D = "\n";
-//    private static final String DILIMETER_TYPE_VALUE_FIELD = ": ";
 
     private static String toStringArray( Object obj, Class<?> cl){
         if (obj == null)
