@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97ae3d5d-779f-456c-ab68-c229859a1b95" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/parser/parsing/DOM/JsonParserDomTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/JsonElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/JsonParserException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/SAX/ParserSAX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/SAX/JsonParserSax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#1229#1237#0" expanded="true" />
+                <element signature="e#1666#1674#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/ParserToFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/parser/serializator/SerializatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/JsonType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/parser/JsonConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/parser/parsing/SAX/ParserSAXTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>JsonToken</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>JsonConstant</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/serializator/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/JsonType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/SAX/ParserSAX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/JsonToken.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/ObjectHelp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/ObjectHelp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/ObjectHelp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/JsonElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/HelpClass/WhatIsPrimitiveType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/ParserDOM.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/СollectorJsonDOMTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/StructureJson/AnalysisWood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/JsonParserDom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/StructureJson/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/HelpClass/ObjectHelp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/serializator/Serializator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/parser/serializator/SerializatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/AnalysisWood.java" />
+        <option value="$PROJECT_DIR$/src/test/java/parser/parsing/SAX/ParserSAXTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/classes/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/DOM/CollectorJsonDomTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/parser/parsing/DOM/JsonParserDomTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/ParserToFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/JsonConstant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/JsonParserException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/parser/parsing/SAX/JsonParserSax.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="540" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="HelpClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="StructureJson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="SAX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="serializator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parsing" type="462c0819:PsiDirectoryNode" />
+              <item name="SAX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSON_PARSER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonparser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="serializator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="parser.parsing.DOM" />
+      <recent name="parser.parsing.SAX" />
+      <recent name="parser.serializator" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="parser.parsing.SAX" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="parser.parsing" />
+      <recent name="parser" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="classes" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SerializatorTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonParserDomTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.parsing.DOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser.parsing.DOM" />
+      <option name="MAIN_CLASS_NAME" value="parser.parsing.DOM.JsonParserDomTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonParserDomTest.fromJsonObjectUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.parsing.DOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser.parsing.DOM" />
+      <option name="MAIN_CLASS_NAME" value="parser.parsing.DOM.JsonParserDomTest" />
+      <option name="METHOD_NAME" value="fromJsonObjectUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserSAXTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.parsing.SAX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser.parsing.SAX" />
+      <option name="MAIN_CLASS_NAME" value="parser.parsing.SAX.ParserSAXTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserSAXTest.fromJsonObjectUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.parsing.SAX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser.parsing.SAX" />
+      <option name="MAIN_CLASS_NAME" value="parser.parsing.SAX.ParserSAXTest" />
+      <option name="METHOD_NAME" value="fromJsonObjectUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsonparser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.serializator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser.serializator" />
+      <option name="MAIN_CLASS_NAME" value="parser.serializator.SerializatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ParserSAXTest" />
+      <item itemvalue="JUnit.ParserSAXTest.fromJsonObjectUser" />
+      <item itemvalue="JUnit.SerializatorTest" />
+      <item itemvalue="JUnit.JsonParserDomTest" />
+      <item itemvalue="JUnit.JsonParserDomTest.fromJsonObjectUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SerializatorTest" />
+        <item itemvalue="JUnit.ParserSAXTest" />
+        <item itemvalue="JUnit.JsonParserDomTest" />
+        <item itemvalue="JUnit.JsonParserDomTest.fromJsonObjectUser" />
+        <item itemvalue="JUnit.ParserSAXTest.fromJsonObjectUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97ae3d5d-779f-456c-ab68-c229859a1b95" name="Default" comment="" />
+      <created>1546378838236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546378838236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ParserSAXTest - 2019.01.23 at 16h 10m 03s.xml">
+      <configuration name="ParserSAXTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserSAXTest - 2019.01.23 at 16h 20m 00s.xml">
+      <configuration name="ParserSAXTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserSAXTest - 2019.01.23 at 16h 21m 19s.xml">
+      <configuration name="ParserSAXTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerializatorTest - 2019.01.23 at 16h 22m 02s.xml">
+      <configuration name="SerializatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserSAXTest - 2019.01.23 at 16h 22m 17s.xml">
+      <configuration name="ParserSAXTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JsonParserDomTest - 2019.01.23 at 16h 22m 39s.xml">
+      <configuration name="JsonParserDomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JsonParserDomTest_fromJsonObjectUser - 2019.01.23 at 16h 23m 39s.xml">
+      <configuration name="JsonParserDomTest.fromJsonObjectUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JsonParserDomTest - 2019.01.23 at 16h 53m 29s.xml">
+      <configuration name="JsonParserDomTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserSAXTest - 2019.01.23 at 16h 53m 47s.xml">
+      <configuration name="ParserSAXTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SerializatorTest - 2019.01.23 at 16h 54m 02s.xml">
+      <configuration name="SerializatorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2898975" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23222749" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30963665" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328594" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.021961933" />
+      <window_info anchor="right" id="PlantUML" order="3" visible="true" weight="0.0075642965" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2898975" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="simpleUML" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2969984" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30963665" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328594" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.021961933" />
+      <window_info anchor="right" id="PlantUML" order="3" visible="true" weight="0.0075642965" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/serializator/Serializator.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/AnalysisWood.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/AnalysisWood.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/AnalysisWood.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/AnalysisWood.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/AnalysisWood.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid4640.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/serializator/Serializator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0-RC1/junit-platform-commons-1.3.0-RC1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/classes/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/HelpClass/ObjectHelp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/HelpClass/WhatIsPrimitiveType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-398">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/StructureJson/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/AnalysisWood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-727">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/CollectorJsonDomTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/DOM/JsonParserDom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/serializator/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/ParserToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/JsonType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/JsonConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/JsonElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/JsonParserException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/SAX/ParserSAX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/parser/parsing/SAX/JsonParserSax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#1229#1237#0" expanded="true" />
+            <element signature="e#1666#1674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/parser/parsing/DOM/JsonParserDomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/parser/parsing/SAX/ParserSAXTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/parser/serializator/SerializatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
